@@ -12,3 +12,4 @@ The screenshots show the running AKB frontend. Settings uses desktop light mode.
 
 - [Direct HTTP with OAuth](settings-direct-oauth.png)
 - [Server rejection with a stale Settings tab](settings-stale-policy.png)
+- [Local helper terminal login at 375 × 800](home-local-login-375.png)
